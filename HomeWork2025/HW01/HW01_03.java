@@ -1,11 +1,15 @@
 import java.util.Scanner;
 
-public class HW01_04 {
+public class HW01_03 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        float product = 1;  
+        long product = 1;  // используем long, чтобы влезли большие числа
 
-        int[] array = new int[2];
+        System.out.print("Array size: ");
+        int size = scan.nextInt();
+        int[] array = new int[size];
+
+        // Заполняем массив
         for (int i = 0; i < array.length; i++) {
             if (scan.hasNextInt()) {
                 array[i] = scan.nextInt();
@@ -15,13 +19,11 @@ public class HW01_04 {
             }
         }
 
+        // Считаем произведение всех элементов
         for (int i = 0; i < array.length; i++) {
             product *= array[i];
         }
 
-        double geometricMean = Math.sqrt(product);
-
-        System.out.println("Произведение = " + product);
-        System.out.printf("Среднее геометрическое = %.4f%n", geometricMean);
+        System.out.println(product);
     }
 }
