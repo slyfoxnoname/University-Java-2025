@@ -7,7 +7,7 @@ public class HW01_02{
         System.out.println("Enter array size: "); int size = scan.nextInt();
         int[] array = new int[size];
         for(int i = 0; i < array.length; i++){
-            //System.out.println("["+i+"]");
+            
             array[i] = scan.nextInt();
         }
         System.out.println("Mirror array: ");
@@ -17,4 +17,4 @@ public class HW01_02{
         
         
     }
-}
+}   
