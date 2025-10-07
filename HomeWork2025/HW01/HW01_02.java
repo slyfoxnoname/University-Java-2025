@@ -1,3 +1,4 @@
+package homework2025.HW01;
 
 import java.util.Scanner;
 

@@ -1,3 +1,4 @@
+package homework2025.HW03;
 class Interval {
     double left;
     double right;

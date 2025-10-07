@@ -1,3 +1,4 @@
+package homework2025.HW03;
 import java.util.ArrayList;
 
 class Subscriber {

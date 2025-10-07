@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class T02_2 {
