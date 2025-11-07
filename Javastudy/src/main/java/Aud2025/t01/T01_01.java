@@ -1,4 +1,4 @@
-
+package Aud2025.t01;
 public class T01_01 {
     public static void main(String[] args) {
         double s = 0;

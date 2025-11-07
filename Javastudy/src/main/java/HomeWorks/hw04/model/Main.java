@@ -1,7 +1,7 @@
-package hw04.src;
+package HomeWorks.hw04.model;
 
-import hw04.src.collection.CollectionDisk;
-import hw04.src.model.*;
+import HomeWorks.hw04.collection.CollectionDisk;
+
 
 public class Main {
     public static void main(String[] args) {

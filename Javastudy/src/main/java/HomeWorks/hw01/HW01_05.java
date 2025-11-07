@@ -1,4 +1,4 @@
-package homework2025.HW01;
+package HomeWorks.hw01;
 public class HW01_05 {
     public static void main(String[] args) {
         int N, M;

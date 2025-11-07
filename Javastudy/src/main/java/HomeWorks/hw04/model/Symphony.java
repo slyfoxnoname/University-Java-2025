@@ -1,3 +1,4 @@
+package HomeWorks.hw04.model;
 public class Symphony extends Composition {
     private int age;              // вік симфонії (або рік створення)
     private int symphonySize;     // розмір (кількість частин)

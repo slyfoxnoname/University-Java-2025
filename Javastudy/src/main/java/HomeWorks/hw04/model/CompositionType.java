@@ -1,4 +1,4 @@
-package hw04.src.model;
+package HomeWorks.hw04.model;
 
 public enum CompositionType {
     SONG("Пісня"),

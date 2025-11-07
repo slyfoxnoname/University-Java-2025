@@ -1,3 +1,4 @@
+package HomeWorks.hw04.model;
 public class Song extends Composition {
 
     private double length;

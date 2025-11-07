@@ -1,3 +1,4 @@
+package HomeWorks.hw04.model;
 public class PopularityLevel {
     private int listens;      // кількість прослуховувань
     private int likes;        // кількість вподобань

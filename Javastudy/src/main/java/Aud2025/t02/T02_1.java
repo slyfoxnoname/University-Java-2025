@@ -1,3 +1,5 @@
+
+package Aud2025.t02;
 import java.util.Scanner;
 
 public class T02_1{

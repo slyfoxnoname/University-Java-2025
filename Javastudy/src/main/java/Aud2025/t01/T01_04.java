@@ -1,3 +1,4 @@
+package Aud2025.t01;
 import java.util.Arrays;
 import java.util.Scanner;
 

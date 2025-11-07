@@ -1,3 +1,4 @@
+package HomeWorks.hw04.model;
 public class Instrumental extends Composition {
     private int instrumentsCounter; // кількість інструментів
 

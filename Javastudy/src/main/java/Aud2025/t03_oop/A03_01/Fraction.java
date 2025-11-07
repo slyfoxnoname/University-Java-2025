@@ -1,4 +1,4 @@
-package T03_OOP.A03_01;
+package Aud2025.t03_oop.A03_01;
 
 
 public class Fraction {

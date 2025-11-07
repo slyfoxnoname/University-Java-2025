@@ -1,5 +1,5 @@
-package T03_OOP.A03_01;
-import T03_OOP.A03_01.Fraction;
+package Aud2025.t03_oop.A03_01;
+import Aud2025.t03_oop.*;;
 
 
 public class Main {

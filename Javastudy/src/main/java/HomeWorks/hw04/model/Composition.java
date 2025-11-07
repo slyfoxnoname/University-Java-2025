@@ -1,3 +1,4 @@
+package HomeWorks.hw04.model;
 public abstract class Composition {
     private String name;
     private String author;

@@ -1,3 +1,4 @@
+package Aud2025.t03_oop.А03_02;
 import java.time.LocalDate;
 import java.util.ArrayList;
 

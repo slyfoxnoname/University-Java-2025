@@ -1,5 +1,6 @@
-package homework2025.HW02;
+package HomeWorks.hw02;
 import java.util.Scanner;
+
 
 public class HW02_01 {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
-package Aud2025.t07_serialization;
+/*package Aud2025.t07_serialization;
 
 import java.io.FileOutputStream;
+import java.io.DataOutputStream;
 
 public class A07_01_V2{
 
@@ -22,4 +23,4 @@ public class A07_01_V2{
         };
         for (int x = )
     }
-}
+}*/

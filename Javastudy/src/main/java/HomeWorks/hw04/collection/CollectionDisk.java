@@ -1,7 +1,6 @@
-package hw04.src.collection;
+package HomeWorks.hw04.collection;
+import HomeWorks.hw04.model.*;
 
-import hw04.src.model.Composition;
-import hw04.src.model.CompositionType;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -89,9 +88,9 @@ public class CollectionDisk {
     // Визначення типу (через instanceof)
     private boolean matchesType(Composition c, CompositionType type) {
         return switch (type) {
-            case SONG -> c instanceof hw04.src.model.Song;
-            case INSTRUMENTAL -> c instanceof hw04.src.model.Instrumental;
-            case SYMPHONY -> c instanceof hw04.src.model.Symphony;
+            case SONG -> c instanceof HomeWorks.hw04.model.Song;
+            case INSTRUMENTAL -> c instanceof HomeWorks.hw04.model.Instrumental;
+            case SYMPHONY -> c instanceof HomeWorks.hw04.model.Symphony;
         };
     }
 }
