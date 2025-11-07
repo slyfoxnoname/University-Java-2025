@@ -1,4 +1,4 @@
-package t07_serialization;
+package Aud2025.t07_serialization;
 
 import java.io.FileOutputStream;
 

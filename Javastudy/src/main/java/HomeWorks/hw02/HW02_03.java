@@ -1,4 +1,4 @@
-package homework2025.HW02;
+package HomeWorks.hw02;
 public class HW02_03 {
     public static double seriesSum(double x, double eps) {
         // все ряды сходятся только если |x|<1
